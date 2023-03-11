@@ -6,3 +6,4 @@ Empty
 execute permission to the owner of the file
  Multiple permissions
 Everybody
+sets the permission to the file
