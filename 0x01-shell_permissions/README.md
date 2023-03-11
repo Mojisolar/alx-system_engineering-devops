@@ -8,3 +8,4 @@ execute permission to the owner of the file
 Everybody
 sets the permission to the file
 script that sets the mode of the file
+Look in the mirror
