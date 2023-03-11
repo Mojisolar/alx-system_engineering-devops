@@ -9,3 +9,4 @@ Everybody
 sets the permission to the file
 script that sets the mode of the file
 Look in the mirror
+script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
